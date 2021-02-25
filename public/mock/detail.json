@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "长隆野生动物世界(AAAAA景区)",
+    "bannerImg": "https://img1.qunarzz.com/sight/p0/2012/f6/f6154bacc1b54593a3.img.jpg_600x330_87fd63a5.jpg",
+    "gallaryImgs": ["https://imgs.qunarzz.com/sight/p0/2101/5f/5fc06d56d7b5f8aaa3.img.jpg_350x240_5738dc6f.jpg", "https://imgs.qunarzz.com/sight/p0/2011/f0/f050f346cfd6dc62a3.water.jpg_350x240_3f8c2787.jpg","https://imgs.qunarzz.com/sight/p0/2001/57/5790fb70e16afcaba3.water.jpg_350x240_e6200048.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
